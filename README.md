@@ -1,5 +1,5 @@
 <h4 align="center">
- <h1>Seja um verdadeiro Heroi!</b> 🦸‍♂️
+ <h1 align="center">Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
